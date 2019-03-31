@@ -532,16 +532,21 @@
 						openURL("https://webchat.quakenet.org/?channels=0ad");
 					</action>
 				</object>
-
+				
+				<!-- ### Reporting bugs button shows a new submenu that displays the contact details to which you can send your bug reports. ### :-->				
 				<object type="button"
 					style="StoneButton"
 					tooltip_style="pgToolTip"
 					size="8 100%-144 100%-8 100%-116"
 				>
-					<translatableAttribute id="caption">Report a Bug</translatableAttribute>
-					<translatableAttribute id="tooltip">Click to visit 0 A.D. Trac to report a bug, crash, or error.</translatableAttribute>
+					<translatableAttribute id="caption">Report a bug</translatableAttribute>
+					<translatableAttribute id="tooltip">Report your bugs here!</translatableAttribute>
 					<action on="Press">
-						openURL("https://trac.wildfiregames.com/wiki/ReportingErrors/");
+						closeMenu();
+						Engine.PushGuiPage("bugreport.xml", {
+							"page": "bugreport/intro",
+							"title": "Report a bug",
+						});
 					</action>
 				</object>
 
