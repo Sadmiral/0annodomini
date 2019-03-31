@@ -13,7 +13,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestDummy_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\ps\tests\stub_impl_hack.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\ps\tests\stub_impl_hack.h"
 
 static TestDummy suite_TestDummy;
 

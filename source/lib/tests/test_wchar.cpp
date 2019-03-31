@@ -14,7 +14,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_Test_wchar_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\lib\tests\test_wchar.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\lib\tests\test_wchar.h"
 
 static Test_wchar suite_Test_wchar;
 

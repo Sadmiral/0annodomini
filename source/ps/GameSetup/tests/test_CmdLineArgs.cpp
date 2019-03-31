@@ -14,7 +14,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestCmdLineArgs_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\ps\GameSetup\tests\test_CmdLineArgs.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\ps\GameSetup\tests\test_CmdLineArgs.h"
 
 static TestCmdLineArgs suite_TestCmdLineArgs;
 

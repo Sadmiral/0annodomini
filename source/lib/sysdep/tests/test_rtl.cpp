@@ -13,7 +13,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_Test_rtl_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\lib\sysdep\tests\test_rtl.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\lib\sysdep\tests\test_rtl.h"
 
 static Test_rtl suite_Test_rtl;
 

@@ -13,7 +13,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestCmpCinemaManager_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\simulation2\components\tests\test_CinemaManager.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\simulation2\components\tests\test_CinemaManager.h"
 
 static TestCmpCinemaManager suite_TestCmpCinemaManager;
 

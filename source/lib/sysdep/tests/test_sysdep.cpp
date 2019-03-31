@@ -14,7 +14,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestSysdep_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\lib\sysdep\tests\test_sysdep.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\lib\sysdep\tests\test_sysdep.h"
 
 static TestSysdep suite_TestSysdep;
 

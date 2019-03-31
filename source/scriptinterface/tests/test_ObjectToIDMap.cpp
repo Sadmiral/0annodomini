@@ -13,7 +13,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestObjectToIDMap_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\scriptinterface\tests\test_ObjectToIDMap.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\scriptinterface\tests\test_ObjectToIDMap.h"
 
 static TestObjectToIDMap suite_TestObjectToIDMap;
 

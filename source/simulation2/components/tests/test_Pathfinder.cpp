@@ -14,7 +14,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestCmpPathfinder_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\simulation2\components\tests\test_Pathfinder.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\simulation2\components\tests\test_Pathfinder.h"
 
 static TestCmpPathfinder suite_TestCmpPathfinder;
 

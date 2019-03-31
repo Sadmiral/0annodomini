@@ -13,7 +13,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestBits_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\lib\tests\test_bits.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\lib\tests\test_bits.h"
 
 static TestBits suite_TestBits;
 

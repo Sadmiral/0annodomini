@@ -14,7 +14,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestTex_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\lib\res\graphics\tests\test_tex.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\lib\res\graphics\tests\test_tex.h"
 
 static TestTex suite_TestTex;
 

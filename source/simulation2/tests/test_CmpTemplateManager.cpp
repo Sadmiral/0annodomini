@@ -14,7 +14,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestCmpTemplateManager_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\simulation2\tests\test_CmpTemplateManager.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\simulation2\tests\test_CmpTemplateManager.h"
 
 static TestCmpTemplateManager suite_TestCmpTemplateManager;
 

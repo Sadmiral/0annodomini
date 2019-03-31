@@ -13,7 +13,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestString_s_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\lib\tests\test_secure_crt.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\lib\tests\test_secure_crt.h"
 
 static TestString_s suite_TestString_s;
 

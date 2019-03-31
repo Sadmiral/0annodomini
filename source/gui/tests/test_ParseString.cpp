@@ -13,7 +13,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestGuiParseString_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\gui\tests\test_ParseString.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\gui\tests\test_ParseString.h"
 
 static TestGuiParseString suite_TestGuiParseString;
 

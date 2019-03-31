@@ -13,7 +13,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestBoundingSphere_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\maths\tests\test_BoundingSphere.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\maths\tests\test_BoundingSphere.h"
 
 static TestBoundingSphere suite_TestBoundingSphere;
 

@@ -14,7 +14,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestCLogger_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\ps\tests\test_CLogger.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\ps\tests\test_CLogger.h"
 
 static TestCLogger suite_TestCLogger;
 

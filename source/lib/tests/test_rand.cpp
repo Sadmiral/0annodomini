@@ -13,7 +13,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestRand_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\lib\tests\test_rand.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\lib\tests\test_rand.h"
 
 static TestRand suite_TestRand;
 

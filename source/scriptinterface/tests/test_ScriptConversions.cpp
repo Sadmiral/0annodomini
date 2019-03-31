@@ -15,7 +15,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestScriptConversions_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\scriptinterface\tests\test_ScriptConversions.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\scriptinterface\tests\test_ScriptConversions.h"
 
 static TestScriptConversions suite_TestScriptConversions;
 

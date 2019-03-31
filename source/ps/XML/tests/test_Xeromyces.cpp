@@ -13,7 +13,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestXeromyces_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\ps\XML\tests\test_Xeromyces.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\ps\XML\tests\test_Xeromyces.h"
 
 static TestXeromyces suite_TestXeromyces;
 

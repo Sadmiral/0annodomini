@@ -15,7 +15,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestScriptInterface_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\scriptinterface\tests\test_ScriptInterface.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\scriptinterface\tests\test_ScriptInterface.h"
 
 static TestScriptInterface suite_TestScriptInterface;
 

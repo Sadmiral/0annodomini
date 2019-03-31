@@ -13,7 +13,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestParamNode_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\simulation2\tests\test_ParamNode.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\simulation2\tests\test_ParamNode.h"
 
 static TestParamNode suite_TestParamNode;
 

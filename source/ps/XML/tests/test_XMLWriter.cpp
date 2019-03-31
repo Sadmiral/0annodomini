@@ -13,7 +13,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestXmlWriter_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\ps\XML\tests\test_XMLWriter.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\ps\XML\tests\test_XMLWriter.h"
 
 static TestXmlWriter suite_TestXmlWriter;
 

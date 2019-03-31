@@ -13,7 +13,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestColor_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\graphics\tests\test_Color.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\graphics\tests\test_Color.h"
 
 static TestColor suite_TestColor;
 

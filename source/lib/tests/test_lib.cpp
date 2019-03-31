@@ -13,7 +13,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestLib_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\lib\tests\test_lib.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\lib\tests\test_lib.h"
 
 static TestLib suite_TestLib;
 

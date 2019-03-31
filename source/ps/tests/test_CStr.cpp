@@ -13,7 +13,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestCStr_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\ps\tests\test_CStr.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\ps\tests\test_CStr.h"
 
 static TestCStr suite_TestCStr;
 

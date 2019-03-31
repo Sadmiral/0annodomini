@@ -14,7 +14,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestWdbgSym_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\lib\sysdep\os\win\tests\test_wdbg_sym.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\lib\sysdep\os\win\tests\test_wdbg_sym.h"
 
 static TestWdbgSym suite_TestWdbgSym;
 

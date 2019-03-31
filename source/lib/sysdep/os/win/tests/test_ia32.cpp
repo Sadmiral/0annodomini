@@ -13,7 +13,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestIA32_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\lib\sysdep\os\win\tests\test_ia32.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\lib\sysdep\os\win\tests\test_ia32.h"
 
 static TestIA32 suite_TestIA32;
 

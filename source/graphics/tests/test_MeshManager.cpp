@@ -14,7 +14,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestMeshManager_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\graphics\tests\test_MeshManager.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\graphics\tests\test_MeshManager.h"
 
 static TestMeshManager suite_TestMeshManager;
 

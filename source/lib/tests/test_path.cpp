@@ -14,7 +14,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestPath_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\lib\tests\test_path.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\lib\tests\test_path.h"
 
 static TestPath suite_TestPath;
 

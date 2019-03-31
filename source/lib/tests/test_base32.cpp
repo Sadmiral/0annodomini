@@ -13,7 +13,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestBase32_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\lib\tests\test_base32.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\lib\tests\test_base32.h"
 
 static TestBase32 suite_TestBase32;
 

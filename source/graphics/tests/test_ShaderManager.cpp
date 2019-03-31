@@ -13,7 +13,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestShaderManager_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\graphics\tests\test_ShaderManager.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\graphics\tests\test_ShaderManager.h"
 
 static TestShaderManager suite_TestShaderManager;
 

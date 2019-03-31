@@ -13,7 +13,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestNetMessage_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\network\tests\test_NetMessage.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\network\tests\test_NetMessage.h"
 
 static TestNetMessage suite_TestNetMessage;
 

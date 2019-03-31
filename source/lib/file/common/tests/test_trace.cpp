@@ -14,7 +14,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestTraceEntry_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\lib\file\common\tests\test_trace.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\lib\file\common\tests\test_trace.h"
 
 static TestTraceEntry suite_TestTraceEntry;
 

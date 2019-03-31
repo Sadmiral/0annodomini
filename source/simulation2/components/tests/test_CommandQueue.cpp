@@ -14,7 +14,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestCmpCommandQueue_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\simulation2\components\tests\test_CommandQueue.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\simulation2\components\tests\test_CommandQueue.h"
 
 static TestCmpCommandQueue suite_TestCmpCommandQueue;
 

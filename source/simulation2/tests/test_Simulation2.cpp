@@ -13,7 +13,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestSimulation2_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\simulation2\tests\test_Simulation2.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\simulation2\tests\test_Simulation2.h"
 
 static TestSimulation2 suite_TestSimulation2;
 

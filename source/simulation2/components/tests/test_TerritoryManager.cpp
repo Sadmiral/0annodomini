@@ -14,7 +14,7 @@
 #include <cxxtest/TestMain.h>
 
 bool suite_TestCmpTerritoryManager_init = false;
-#include "F:\Users\Sadmiral\IDKrepot\0ad\source\simulation2\components\tests\test_TerritoryManager.h"
+#include "F:\Users\Sadmiral\IDKrepot\0annodomini\source\simulation2\components\tests\test_TerritoryManager.h"
 
 static TestCmpTerritoryManager suite_TestCmpTerritoryManager;
 
